@@ -1,0 +1,22 @@
+{
+  "bot": {
+    "name": "",
+    "prefix": ">"
+  },
+  "assets": {
+    "colours": {
+      "primary": "af86f3",
+      "secondary": "9d107b",
+      "accent": "e82191",
+      "blend": "2b2d31"
+    },
+    "commands": {},
+    "emojis": {}
+  },
+  "permissions": {
+    "owners": [],
+    "staff": [],
+    "ownerPermissionLevel": 10,
+    "staffPermissionLevel": 5
+  }
+}
